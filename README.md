@@ -1,4 +1,4 @@
-# Bonjour! I'm Yusuf 👋
+# Bonjour! Je suis Yusuf 👋
 
 - 💻 Software Engineering Student at Politeknik Negeri Batam <br/>
 - 🎨 UI/UX Design – enthusiast in creating clean and intuitive interfaces<br/>
